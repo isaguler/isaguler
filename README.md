@@ -27,6 +27,12 @@ I am a Java based Backend Developer.
 
 ![](https://komarev.com/ghpvc/?username=IsaGULER&style=for-the-badge)
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+
+<!-- Markdown -->
+
 <!--
 **IsaGULER/IsaGULER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
