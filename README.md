@@ -1,4 +1,4 @@
-<img src="https://github.com/IsaGULER/IsaGULER/blob/main/Web%20Developer%20Banner.png">
+<img src="https://github.com/IsaGULER/IsaGULER/blob/main/Web%20Developer%20Banner.png" alt="">
 
 ### Hi there 👋 I am Isa...
 
