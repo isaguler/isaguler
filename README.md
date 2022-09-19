@@ -19,6 +19,12 @@ I am a Java based Backend Developer.
 ![](https://img.shields.io/badge/IntellijIDEA-informational?style=for-the-badge&logo=IntellijIDEA&logoColor=white&color=black)
 ![](https://img.shields.io/badge/Windows-informational?style=for-the-badge&logo=Windows&logoColor=0078D6&color=white)
 <!-- ![](https://img.shields.io/badge/Java-informational?style=for-the-badge&logo=Oracle&logoColor=F80000&color=blue) -->
+
+#### Current & Old Projects:
+- [Paritex](https://www.paritex.com/)
+- [Nitroex](https://www.nitroex.io/)
+- [Dyorex](https://dyorex.com/)
+
 #### How to reach me:
 [![](https://img.shields.io/badge/Mail-informational?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335)](mailto:batudemir034@gmail.com)
 
