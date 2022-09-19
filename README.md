@@ -16,6 +16,7 @@ I am a Java based Backend Developer.
 ![](https://img.shields.io/badge/Redis-informational?style=for-the-badge&logo=Redis&logoColor=DC382D&color=white)
 ![](https://img.shields.io/badge/Docker-informational?style=for-the-badge&logo=docker&logoColor=white&color=2496ED)
 ![](https://img.shields.io/badge/IntellijIDEA-informational?style=for-the-badge&logo=IntellijIDEA&logoColor=white&color=black)
+![](https://img.shields.io/badge/VSCode-informational?style=for-the-badge&logo=VisualStudioCode&logoColor=007ACC&color=black)
 ![](https://img.shields.io/badge/Windows-informational?style=for-the-badge&logo=Windows&logoColor=0078D6&color=white)
 
 #### Current & Old Projects:
