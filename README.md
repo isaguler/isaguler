@@ -4,7 +4,7 @@
 
 I am a Java based Backend Developer.
 
-- 🌱 I’m currently learning [Reactive Programming With Spring](https://spring.io/reactive)
+- 🌱 I’m currently learning [Reactive Programming With Spring](https://spring.io/reactive) and [Event Driven Programming With Spring](https://spring.io/event-driven).
 - 🌱 I’m also learning about blockchain backend clients and blockchain nodes. (Bitcoin, Litecoin, Ethereum, Binance Chain, Solana, Ripple)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Not coding related but; I love watching adventure genre anime series.
