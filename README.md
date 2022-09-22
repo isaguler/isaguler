@@ -18,9 +18,26 @@ I am a Java based Backend Developer.
 ![](https://img.shields.io/badge/Windows-informational?style=for-the-badge&logo=Windows&logoColor=0078D6&color=white)
 
 #### Current & Old Projects:
+<table>
+    <td>
+
+![](https://avatars.githubusercontent.com/u/48284751?s=200&v=4)
 - [Paritex](https://www.paritex.com/)
+
+    </td>
+    <td>
+
+![](https://avatars.githubusercontent.com/u/83714978?s=200&v=4)
 - [Nitroex](https://www.nitroex.io/)
+
+    </td>
+    <td>
+
+![](https://avatars.githubusercontent.com/u/90764189?s=200&v=4)
 - [Dyorex](https://dyorex.com/)
+
+    </td>
+</table>
 
 #### How to reach me:
 ![](https://img.shields.io/badge/Mail-informational?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335)
