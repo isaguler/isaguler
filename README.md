@@ -1,6 +1,6 @@
 <img src="https://github.com/IsaGULER/IsaGULER/blob/main/Web%20Developer%20Banner.png" alt="">
 
-### Hi there 👋 I am Isa
+### <img src = "https://github.com/IsaGULER/IsaGULER/raw/main/assets/about-me.gif" width = 50px> Hi there 👋 I am Isa 
 
 I am a Java based Backend Developer.
 
@@ -51,6 +51,8 @@ I am a Java based Backend Developer.
 
 #### How to reach me:
 ![](https://img.shields.io/badge/Mail-informational?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 #### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats:
 <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" alt=""/>
