@@ -7,6 +7,8 @@ I am a Java based Backend Developer.
 - 🌱 I’m currently learning [Reactive Programming With Spring](https://spring.io/reactive) and [Event Driven Programming With Spring](https://spring.io/event-driven).
 - 🌱 I’m also learning about blockchain backend clients and blockchain nodes. (Bitcoin, Litecoin, Ethereum, Binance Chain, Solana, Ripple)
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+
 #### Techs and Envs:
 ![](https://img.shields.io/badge/Spring-informational?style=for-the-badge&logo=Spring&logoColor=greeen&color=white)
 ![](https://img.shields.io/badge/SpringBoot-informational?style=for-the-badge&logo=SpringBoot&logoColor=green&color=white) <br>
@@ -20,6 +22,8 @@ I am a Java based Backend Developer.
 ![](https://img.shields.io/badge/Windows-informational?style=for-the-badge&logo=Windows&logoColor=0078D6&color=white)
 ![](https://img.shields.io/badge/Linux-informational?style=for-the-badge&logo=Linux&logoColor=grey&color=FCC624)
 ![](https://img.shields.io/badge/Ubuntu-informational?style=for-the-badge&logo=Ubuntu&logoColor=FCC624&color=E95420)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 #### Current & Old Projects:
 <table>
@@ -43,10 +47,12 @@ I am a Java based Backend Developer.
     </td>
 </table>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+
 #### How to reach me:
 ![](https://img.shields.io/badge/Mail-informational?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335)
 
-#### GitHub Stats:
+#### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats:
 <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" alt=""/>
 
 ![Isa's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaGULER&count_private=true&show_icons=true&theme=tokyonight)
@@ -54,6 +60,8 @@ I am a Java based Backend Developer.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaGULER&amp;layout=compact&amp;theme=dark)
 
 ![](https://komarev.com/ghpvc/?username=IsaGULER&style=for-the-badge)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 #### For Inspiration:
 ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
