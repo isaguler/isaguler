@@ -9,13 +9,17 @@ I am a Java based Backend Developer.
 
 #### Techs and Envs:
 ![](https://img.shields.io/badge/Spring-informational?style=for-the-badge&logo=Spring&logoColor=greeen&color=white)
-![](https://img.shields.io/badge/SpringBoot-informational?style=for-the-badge&logo=SpringBoot&logoColor=green&color=white)
-![](https://img.shields.io/badge/MySQL-informational?style=for-the-badge&logo=MySQL&logoColor=4479A1&color=white)
-![](https://img.shields.io/badge/Redis-informational?style=for-the-badge&logo=Redis&logoColor=DC382D&color=white)
-![](https://img.shields.io/badge/Docker-informational?style=for-the-badge&logo=docker&logoColor=white&color=2496ED)
+![](https://img.shields.io/badge/SpringBoot-informational?style=for-the-badge&logo=SpringBoot&logoColor=green&color=white) <br>
+![](https://img.shields.io/badge/MySQL-informational?style=for-the-badge&logo=MySQL&logoColor=black&color=4479A1)
+![](https://img.shields.io/badge/Redis-informational?style=for-the-badge&logo=Redis&logoColor=black&color=DC382D)
+![](https://img.shields.io/badge/MongoDb-informational?style=for-the-badge&logo=MongoDB&logoColor=white&color=47A248)
+![](https://img.shields.io/badge/Elasticsearch-informational?style=for-the-badge&logo=Elasticsearch&logoColor=white&color=005571)
+![](https://img.shields.io/badge/Docker-informational?style=for-the-badge&logo=docker&logoColor=white&color=2496ED) <br>
 ![](https://img.shields.io/badge/IntellijIDEA-informational?style=for-the-badge&logo=IntellijIDEA&logoColor=white&color=black)
-![](https://img.shields.io/badge/VSCode-informational?style=for-the-badge&logo=VisualStudioCode&logoColor=007ACC&color=black)
+![](https://img.shields.io/badge/VSCode-informational?style=for-the-badge&logo=VisualStudioCode&logoColor=007ACC&color=black) <br>
 ![](https://img.shields.io/badge/Windows-informational?style=for-the-badge&logo=Windows&logoColor=0078D6&color=white)
+![](https://img.shields.io/badge/Linux-informational?style=for-the-badge&logo=Linux&logoColor=grey&color=FCC624)
+![](https://img.shields.io/badge/Ubuntu-informational?style=for-the-badge&logo=Ubuntu&logoColor=FCC624&color=E95420)
 
 #### Current & Old Projects:
 <table>
@@ -46,6 +50,8 @@ I am a Java based Backend Developer.
 <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" alt=""/>
 
 ![Isa's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaGULER&count_private=true&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaGULER&amp;layout=compact&amp;theme=dark)
 
 ![](https://komarev.com/ghpvc/?username=IsaGULER&style=for-the-badge)
 
