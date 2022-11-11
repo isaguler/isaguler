@@ -7,7 +7,7 @@ I am a Java based Backend Developer.
 - 🌱 I’m currently learning [Reactive Programming With Spring](https://spring.io/reactive) and [Event Driven Programming With Spring](https://spring.io/event-driven).
 - 🌱 I’m also learning about blockchain backend clients and blockchain nodes. (Bitcoin, Litecoin, Ethereum, Binance Chain, Solana, Ripple)
 
-<img src="//github.com/IsaGULER/IsaGULER/raw/main/assets/neon-line-seperator.gif"><br>
+<img src="https://github.com/IsaGULER/IsaGULER/raw/main/assets/neon-line-seperator.gif"><br>
 
 #### Techs and Envs:
 ![](https://img.shields.io/badge/Spring-informational?style=for-the-badge&logo=Spring&logoColor=greeen&color=white)
@@ -23,7 +23,7 @@ I am a Java based Backend Developer.
 ![](https://img.shields.io/badge/Linux-informational?style=for-the-badge&logo=Linux&logoColor=grey&color=FCC624)
 ![](https://img.shields.io/badge/Ubuntu-informational?style=for-the-badge&logo=Ubuntu&logoColor=FCC624&color=E95420)
 
-<img src="//github.com/IsaGULER/IsaGULER/raw/main/assets/neon-line-seperator.gif"><br>
+<img src="https://github.com/IsaGULER/IsaGULER/raw/main/assets/neon-line-seperator.gif"><br>
 
 #### Current & Old Projects:
 <table>
@@ -47,12 +47,12 @@ I am a Java based Backend Developer.
     </td>
 </table>
 
-<img src="//github.com/IsaGULER/IsaGULER/raw/main/assets/neon-line-seperator.gif"><br>
+<img src="https://github.com/IsaGULER/IsaGULER/raw/main/assets/neon-line-seperator.gif"><br>
 
 #### How to reach me:
 ![](https://img.shields.io/badge/Mail-informational?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335)
 
-<img src="//github.com/IsaGULER/IsaGULER/raw/main/assets/neon-line-seperator.gif"><br>
+<img src="https://github.com/IsaGULER/IsaGULER/raw/main/assets/neon-line-seperator.gif"><br>
 
 #### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats:
 <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" alt=""/>
@@ -63,7 +63,7 @@ I am a Java based Backend Developer.
 
 ![](https://komarev.com/ghpvc/?username=IsaGULER&style=for-the-badge)
 
-<img src="//github.com/IsaGULER/IsaGULER/raw/main/assets/neon-line-seperator.gif"><br>
+<img src="https://github.com/IsaGULER/IsaGULER/raw/main/assets/neon-line-seperator.gif"><br>
 
 #### For Inspiration:
 ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
