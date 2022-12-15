@@ -5,7 +5,8 @@
 I am a Java based Backend Developer.
 
 - 🌱 I’m currently learning [Reactive Programming With Spring](https://spring.io/reactive) and [Event Driven Programming With Spring](https://spring.io/event-driven).
-- 🌱 I’m also learning about blockchain backend clients and blockchain nodes. (Bitcoin, Litecoin, Ethereum, Binance Chain, Solana, Ripple)
+- 🌱 Also learning DevOps techs like [AWS](https://aws.amazon.com/), [Jenkins](https://www.jenkins.io/), [Docker](https://www.docker.com/).
+- 🔭 Next Step is going to be Frontend Development.
 
 <!-- <img src="https://github.com/IsaGULER/IsaGULER/raw/main/assets/neon-line-seperator.gif"><br> -->
 
