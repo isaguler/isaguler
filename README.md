@@ -31,28 +31,27 @@ I am a Java based Backend Developer.
 <table>
     <td>
 
-![](https://avatars.githubusercontent.com/u/48284751?s=200&v=4)
-- [Paritex](https://www.paritex.com/)
-
-    </td>
-    <td>
-
 ![](https://avatars.githubusercontent.com/u/83714978?s=200&v=4)
 - [Nitroex](https://www.nitroex.io/)
-
     </td>
     <td>
 
 ![](https://avatars.githubusercontent.com/u/90764189?s=200&v=4)
 - [Dyorex](https://dyorex.com/)
+    </td>
+    <td>
 
+![](https://avatars.githubusercontent.com/u/48284751?s=200&v=4)
+- [Paritex](https://www.paritex.com/)
     </td>
 </table>
 
 <!-- <img src="https://github.com/IsaGULER/IsaGULER/raw/main/assets/neon-line-seperator.gif"><br> -->
 
 #### How to reach me:
-![](https://img.shields.io/badge/Mail-informational?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335)
+<a href="mailto:jesus3419@gmail.com">
+<img src="https://img.shields.io/badge/Mail-informational?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335" alt="gmail">
+</a>
 
 <!-- <img src="https://github.com/IsaGULER/IsaGULER/raw/main/assets/neon-line-seperator.gif"><br> -->
 
@@ -66,11 +65,6 @@ I am a Java based Backend Developer.
 ![](https://komarev.com/ghpvc/?username=IsaGULER&style=for-the-badge)
 
 <!-- <img src="https://github.com/IsaGULER/IsaGULER/raw/main/assets/neon-line-seperator.gif"><br> -->
-
-<!--
-#### For Inspiration:
-![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
--->
 
 <!-- Markdown -->
 
