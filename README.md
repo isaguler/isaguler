@@ -1,6 +1,6 @@
 <img src="https://github.com/IsaGULER/IsaGULER/blob/main/Web%20Developer%20Banner.png" alt="">
 
-### <img src = "https://github.com/IsaGULER/IsaGULER/raw/main/assets/about-me.gif" width = 50px> Hi there 👋 I am Isa 
+### <p align="center"> <img src = "https://github.com/IsaGULER/IsaGULER/raw/main/assets/about-me.gif" width = 50px> Hi there 👋 I am Isa </p>
 
 I am a Java based Backend Developer.
 
@@ -10,7 +10,9 @@ I am a Java based Backend Developer.
 
 <!-- <img src="https://github.com/IsaGULER/IsaGULER/raw/main/assets/neon-line-seperator.gif"><br> -->
 
-#### Techs and Envs:
+
+### <p align="center"> 🧰 Techs and Envs 🧰 </p> 
+
 ![](https://img.shields.io/badge/Spring-informational?style=for-the-badge&logo=Spring&logoColor=greeen&color=white)
 ![](https://img.shields.io/badge/SpringBoot-informational?style=for-the-badge&logo=SpringBoot&logoColor=green&color=white) <br>
 ![](https://img.shields.io/badge/MySQL-informational?style=for-the-badge&logo=MySQL&logoColor=black&color=4479A1)
@@ -28,7 +30,7 @@ I am a Java based Backend Developer.
 
 <!-- <img src="https://github.com/IsaGULER/IsaGULER/raw/main/assets/neon-line-seperator.gif"><br> -->
 
-#### Current & Old Projects:
+### <p align="center"> Current & Old Projects </p>
 <table>
     <td>
 
@@ -49,18 +51,19 @@ I am a Java based Backend Developer.
 
 <!-- <img src="https://github.com/IsaGULER/IsaGULER/raw/main/assets/neon-line-seperator.gif"><br> -->
 
-#### How to reach me:
-<a href="mailto:jesus3419@gmail.com">
+### <p align="center"> How To Reach Me </p>
+<p align="center"> <a href="mailto:jesus3419@gmail.com">
 <img src="https://img.shields.io/badge/Mail-informational?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335" alt="gmail">
-</a>
+</a> </p>
 
 <!-- <img src="https://github.com/IsaGULER/IsaGULER/raw/main/assets/neon-line-seperator.gif"><br> -->
 
-#### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats:
+#### <p align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats </p>
+<p align="center">
 <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" alt=""/>
+</p>
 
 ![Isa's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaGULER&count_private=true&show_icons=true&theme=tokyonight)
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaGULER&amp;layout=compact&amp;theme=dark)
 
 ![](https://komarev.com/ghpvc/?username=IsaGULER&style=for-the-badge)
