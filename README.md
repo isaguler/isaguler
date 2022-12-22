@@ -30,7 +30,7 @@ I am a Java based Backend Developer.
 
 <!-- <img src="https://github.com/IsaGULER/IsaGULER/raw/main/assets/neon-line-seperator.gif"><br> -->
 
-### <p align="center"> Current & Old Projects </p>
+### <p align="center"> 🛠️ Current & Old Projects 🛠️ </p>
 <table>
     <td>
 
@@ -52,9 +52,10 @@ I am a Java based Backend Developer.
 <!-- <img src="https://github.com/IsaGULER/IsaGULER/raw/main/assets/neon-line-seperator.gif"><br> -->
 
 ### <p align="center"> How To Reach Me </p>
-<p align="center"> <a href="mailto:jesus3419@gmail.com">
-<img src="https://img.shields.io/badge/Mail-informational?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335" alt="gmail">
-</a> </p>
+<p align="center">
+<a href="mailto:jesus3419@gmail.com"> <img src="https://img.shields.io/badge/Mail-informational?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335" alt="gmail"></a>
+<a href="https://twitter.com/isaguleer"> <img src="https://img.shields.io/badge/Twitter-informational?style=for-the-badge&logo=Twitter&logoColor=1DA1F2&color=white" alt="twitter"></a>
+</p>
 
 <!-- <img src="https://github.com/IsaGULER/IsaGULER/raw/main/assets/neon-line-seperator.gif"><br> -->
 
@@ -64,8 +65,7 @@ I am a Java based Backend Developer.
 </p>
 
 ![Isa's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaGULER&count_private=true&show_icons=true&theme=tokyonight) 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaGULER&amp;layout=compact&amp;theme=dark)
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaGULER&amp;layout=compact&amp;theme=dark) 
 ![](https://komarev.com/ghpvc/?username=IsaGULER&style=for-the-badge)
 
 <!-- <img src="https://github.com/IsaGULER/IsaGULER/raw/main/assets/neon-line-seperator.gif"><br> -->
