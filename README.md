@@ -51,7 +51,7 @@ I am a Java based Backend Developer.
 
 <!-- <img src="https://github.com/IsaGULER/IsaGULER/raw/main/assets/neon-line-seperator.gif"><br> -->
 
-### <p align="center"> How To Reach Me </p>
+### <p align="center"> 📫 How To Reach Me 📫 </p>
 <p align="center">
 <a href="mailto:jesus3419@gmail.com"> <img src="https://img.shields.io/badge/Mail-informational?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335" alt="gmail"></a>
 <a href="https://twitter.com/isaguleer"> <img src="https://img.shields.io/badge/Twitter-informational?style=for-the-badge&logo=Twitter&logoColor=1DA1F2&color=white" alt="twitter"></a>
@@ -70,13 +70,7 @@ I am a Java based Backend Developer.
 
 <!-- <img src="https://github.com/IsaGULER/IsaGULER/raw/main/assets/neon-line-seperator.gif"><br> -->
 
-<!-- Markdown -->
-
 <!--
-**IsaGULER/IsaGULER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
