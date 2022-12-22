@@ -63,7 +63,7 @@ I am a Java based Backend Developer.
 <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" alt=""/>
 </p>
 
-![Isa's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaGULER&count_private=true&show_icons=true&theme=tokyonight)
+![Isa's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaGULER&count_private=true&show_icons=true&theme=tokyonight) 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaGULER&amp;layout=compact&amp;theme=dark)
 
 ![](https://komarev.com/ghpvc/?username=IsaGULER&style=for-the-badge)
