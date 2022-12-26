@@ -15,7 +15,8 @@ I am a Java based Backend Developer.
 
 ![](https://img.shields.io/badge/Spring-informational?style=for-the-badge&logo=Spring&logoColor=greeen&color=white)
 ![](https://img.shields.io/badge/SpringBoot-informational?style=for-the-badge&logo=SpringBoot&logoColor=green&color=white) <br>
-![](https://img.shields.io/badge/MySQL-informational?style=for-the-badge&logo=MySQL&logoColor=black&color=4479A1)
+![](https://img.shields.io/badge/MySQL-informational?style=for-the-badge&logo=MySQL&logoColor=4479A1&color=CD5C5C)
+![](https://img.shields.io/badge/PostgreSQL-informational?style=for-the-badge&logo=PostgreSQL&logoColor=4169E1&color=lightgrey)
 ![](https://img.shields.io/badge/Redis-informational?style=for-the-badge&logo=Redis&logoColor=black&color=DC382D)
 ![](https://img.shields.io/badge/MongoDb-informational?style=for-the-badge&logo=MongoDB&logoColor=white&color=47A248)
 ![](https://img.shields.io/badge/Elasticsearch-informational?style=for-the-badge&logo=Elasticsearch&logoColor=white&color=005571) <br>
