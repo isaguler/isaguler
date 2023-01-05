@@ -68,6 +68,7 @@ I am a Java based Backend Developer.
 <!--
 ![Isa's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaGULER&count_private=true&show_icons=true&theme=tokyonight) 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaGULER&amp;layout=compact&amp;theme=dark) -->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=IsaGULER)](https://git.io/streak-stats)
 ![](https://komarev.com/ghpvc/?username=IsaGULER&style=for-the-badge)
 
 <!-- <img src="https://github.com/IsaGULER/IsaGULER/raw/main/assets/neon-line-seperator.gif"><br> -->
