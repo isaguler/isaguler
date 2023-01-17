@@ -27,7 +27,9 @@ I am a Java based Backend Developer.
 ![](https://img.shields.io/badge/Ubuntu-informational?style=for-the-badge&logo=Ubuntu&logoColor=FCC624&color=E95420) <br>
 ![](https://img.shields.io/badge/AmazonAWS-informational?style=for-the-badge&logo=AmazonAWS&logoColor=232F3E&color=F78E08)
 ![](https://img.shields.io/badge/Docker-informational?style=for-the-badge&logo=docker&logoColor=white&color=2496ED)
-![](https://img.shields.io/badge/Jenkins-informational?style=for-the-badge&logo=Jenkins&logoColor=D24939&color=C7EBE9)
+![](https://img.shields.io/badge/Jenkins-informational?style=for-the-badge&logo=Jenkins&logoColor=D24939&color=C7EBE9) <br>
+![](https://img.shields.io/badge/HTML-informational?style=for-the-badge&logo=HTML5&logoColor=E34F26&color=FFFFFF)
+![](https://img.shields.io/badge/CSS-informational?style=for-the-badge&logo=CSS3&logoColor=E34F26&color=FFFFFF)
 
 <!-- <img src="https://github.com/IsaGULER/IsaGULER/raw/main/assets/neon-line-seperator.gif"><br> -->
 
@@ -61,13 +63,11 @@ I am a Java based Backend Developer.
 <!-- <img src="https://github.com/IsaGULER/IsaGULER/raw/main/assets/neon-line-seperator.gif"><br> -->
 
 #### <p align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats </p>
-<p align="center">
+<p>
 <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" alt=""/>
 </p>
 
-<!--
-![Isa's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaGULER&count_private=true&show_icons=true&theme=tokyonight) 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaGULER&amp;layout=compact&amp;theme=dark) -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaGULER&amp;layout=compact&amp;theme=dark)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=IsaGULER)](https://git.io/streak-stats)
 ![](https://komarev.com/ghpvc/?username=IsaGULER&style=for-the-badge)
 
