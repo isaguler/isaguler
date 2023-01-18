@@ -13,6 +13,8 @@ I am a Java based Backend Developer.
 
 ### <p align="center"> 🧰 Techs and Envs 🧰 </p> 
 
+<div>
+
 ![](https://img.shields.io/badge/Spring-informational?style=for-the-badge&logo=Spring&logoColor=greeen&color=white)
 ![](https://img.shields.io/badge/SpringBoot-informational?style=for-the-badge&logo=SpringBoot&logoColor=green&color=white) <br>
 ![](https://img.shields.io/badge/MySQL-informational?style=for-the-badge&logo=MySQL&logoColor=4479A1&color=CD5C5C)
@@ -31,9 +33,12 @@ I am a Java based Backend Developer.
 ![](https://img.shields.io/badge/HTML-informational?style=for-the-badge&logo=HTML5&logoColor=E34F26&color=FFFFFF)
 ![](https://img.shields.io/badge/CSS-informational?style=for-the-badge&logo=CSS3&logoColor=E34F26&color=FFFFFF)
 
+</div>
+
 <!-- <img src="https://github.com/IsaGULER/IsaGULER/raw/main/assets/neon-line-seperator.gif"><br> -->
 
 ### <p align="center"> 🛠️ Current & Old Projects 🛠️ </p>
+<div>
 <table>
     <td>
 
@@ -51,6 +56,7 @@ I am a Java based Backend Developer.
 - [Paritex](https://www.paritex.com/)
     </td>
 </table>
+</div>
 
 <!-- <img src="https://github.com/IsaGULER/IsaGULER/raw/main/assets/neon-line-seperator.gif"><br> -->
 
@@ -63,13 +69,15 @@ I am a Java based Backend Developer.
 <!-- <img src="https://github.com/IsaGULER/IsaGULER/raw/main/assets/neon-line-seperator.gif"><br> -->
 
 #### <p align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats </p>
+<div>
 <p>
 <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" alt=""/>
 </p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaGULER&amp;layout=compact&amp;theme=dark)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=IsaGULER)](https://git.io/streak-stats)
 ![](https://komarev.com/ghpvc/?username=IsaGULER&style=for-the-badge)
+
+</div>
 
 <!-- <img src="https://github.com/IsaGULER/IsaGULER/raw/main/assets/neon-line-seperator.gif"><br> -->
 
