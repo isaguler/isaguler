@@ -4,9 +4,9 @@
 
 I am a Java based Backend Developer.
 
-- 🌱 I’m currently learning [Reactive Programming With Spring](https://spring.io/reactive) and [Event Driven Programming With Spring](https://spring.io/event-driven).
-- 🌱 Also learning DevOps techs like [AWS](https://aws.amazon.com/), [Jenkins](https://www.jenkins.io/), [Docker](https://www.docker.com/).
-- 🔭 Next Step is going to be Frontend Development.
+<!-- - 🌱 I’m currently learning [Reactive Programming With Spring](https://spring.io/reactive) and [Event Driven Programming With Spring](https://spring.io/event-driven). -->
+- 🌱 Currently learning DevOps tech stack like [AWS](https://aws.amazon.com/), [Jenkins](https://www.jenkins.io/), [Docker](https://www.docker.com/).
+- 🔭 Also interested in Frontend Development and learning [JavaScript](https://www.javascript.com/) and [React](https://beta.reactjs.org/)
 
 <!-- <img src="https://github.com/IsaGULER/IsaGULER/raw/main/assets/neon-line-seperator.gif"><br> -->
 
@@ -29,9 +29,24 @@ I am a Java based Backend Developer.
 ![](https://img.shields.io/badge/Ubuntu-informational?style=for-the-badge&logo=Ubuntu&logoColor=FCC624&color=E95420) <br>
 ![](https://img.shields.io/badge/AmazonAWS-informational?style=for-the-badge&logo=AmazonAWS&logoColor=232F3E&color=F78E08)
 ![](https://img.shields.io/badge/Docker-informational?style=for-the-badge&logo=docker&logoColor=white&color=2496ED)
-![](https://img.shields.io/badge/Jenkins-informational?style=for-the-badge&logo=Jenkins&logoColor=D24939&color=C7EBE9) <br>
+![](https://img.shields.io/badge/Jenkins-informational?style=for-the-badge&logo=Jenkins&logoColor=D24939&color=C7EBE9)
+![](https://img.shields.io/badge/Kafka-informational?style=for-the-badge&logo=ApacheKafka&logoColor=231F20&color=C7EBE9)
+![](https://img.shields.io/badge/Grafana-informational?style=for-the-badge&logo=Grafana&logoColor=F46800&color=black) <br>
 ![](https://img.shields.io/badge/HTML-informational?style=for-the-badge&logo=HTML5&logoColor=E34F26&color=FFFFFF)
 ![](https://img.shields.io/badge/CSS-informational?style=for-the-badge&logo=CSS3&logoColor=E34F26&color=FFFFFF)
+![](https://img.shields.io/badge/JS-informational?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E&color=FFFFFF)
+![](https://img.shields.io/badge/React-informational?style=for-the-badge&logo=React&logoColor=61DAFB&color=FFFFFF)
+
+<!--
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+-->
+
+
 
 </div>
 
@@ -64,6 +79,7 @@ I am a Java based Backend Developer.
 <p align="center">
 <a href="mailto:jesus3419@gmail.com"> <img src="https://img.shields.io/badge/Mail-informational?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335" alt="gmail"></a>
 <a href="https://twitter.com/isaguleer"> <img src="https://img.shields.io/badge/Twitter-informational?style=for-the-badge&logo=Twitter&logoColor=1DA1F2&color=white" alt="twitter"></a>
+<a href="https://www.linkedin.com/in/isaguler"> <img src="https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2&color=white" alt="linkedin"></a>
 </p>
 
 <!-- <img src="https://github.com/IsaGULER/IsaGULER/raw/main/assets/neon-line-seperator.gif"><br> -->
@@ -76,6 +92,8 @@ I am a Java based Backend Developer.
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=IsaGULER)](https://git.io/streak-stats)
 ![](https://komarev.com/ghpvc/?username=IsaGULER&style=for-the-badge)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaguler&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
