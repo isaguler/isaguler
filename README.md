@@ -5,8 +5,11 @@
 I am a Java based Backend Developer.
 
 <!-- - 🌱 I’m currently learning [Reactive Programming With Spring](https://spring.io/reactive) and [Event Driven Programming With Spring](https://spring.io/event-driven). -->
-- 🌱 Currently learning DevOps tech stack like [AWS](https://aws.amazon.com/), [Jenkins](https://www.jenkins.io/), [Docker](https://www.docker.com/).
-- 🔭 Also interested in Frontend Development and learning [JavaScript](https://www.javascript.com/) and [React](https://beta.reactjs.org/)
+- 🍃 Spring Boot lover.
+- 🔭 Always trying to learn something new...
+- 🌱 Learning and practicing DevOps tech stack like [AWS](https://aws.amazon.com/), [Jenkins](https://www.jenkins.io/), [Docker](https://www.docker.com/).
+
+<!-- - 🔭 Also interested in Frontend Development and learning [JavaScript](https://www.javascript.com/) and [React](https://beta.reactjs.org/) -->
 
 <!-- <img src="https://github.com/IsaGULER/IsaGULER/raw/main/assets/neon-line-seperator.gif"><br> -->
 
@@ -32,20 +35,11 @@ I am a Java based Backend Developer.
 ![](https://img.shields.io/badge/Jenkins-informational?style=for-the-badge&logo=Jenkins&logoColor=D24939&color=C7EBE9)
 ![](https://img.shields.io/badge/Kafka-informational?style=for-the-badge&logo=ApacheKafka&logoColor=231F20&color=C7EBE9)
 ![](https://img.shields.io/badge/Grafana-informational?style=for-the-badge&logo=Grafana&logoColor=F46800&color=black) <br>
+I am very noob at; <br>
 ![](https://img.shields.io/badge/HTML-informational?style=for-the-badge&logo=HTML5&logoColor=E34F26&color=FFFFFF)
 ![](https://img.shields.io/badge/CSS-informational?style=for-the-badge&logo=CSS3&logoColor=E34F26&color=FFFFFF)
 ![](https://img.shields.io/badge/JS-informational?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E&color=FFFFFF)
 ![](https://img.shields.io/badge/React-informational?style=for-the-badge&logo=React&logoColor=61DAFB&color=FFFFFF)
-
-<!--
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
--->
-
 
 
 </div>
