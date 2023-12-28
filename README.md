@@ -31,10 +31,11 @@ I am a Java based Backend Developer.
 ![](https://img.shields.io/badge/Linux-informational?style=for-the-badge&logo=Linux&logoColor=grey&color=FCC624)
 ![](https://img.shields.io/badge/Ubuntu-informational?style=for-the-badge&logo=Ubuntu&logoColor=FCC624&color=E95420) <br>
 ![](https://img.shields.io/badge/AmazonAWS-informational?style=for-the-badge&logo=AmazonAWS&logoColor=232F3E&color=F78E08)
+![](https://img.shields.io/badge/OCP-informational?style=for-the-badge&logo=redhat&logoColor=darkred&color=white)
 ![](https://img.shields.io/badge/Docker-informational?style=for-the-badge&logo=docker&logoColor=white&color=2496ED)
-![](https://img.shields.io/badge/Kubernetes-informational?style=for-the-badge&logo=Kubernetes&logoColor=4E4FEB&color=BDCDD6)
+![](https://img.shields.io/badge/Kubernetes-informational?style=for-the-badge&logo=Kubernetes&logoColor=4E4FEB&color=BDCDD6) <br>
+![](https://img.shields.io/badge/Kafka-informational?style=for-the-badge&logo=ApacheKafka&logoColor=231F20&color=white)
 ![](https://img.shields.io/badge/Jenkins-informational?style=for-the-badge&logo=Jenkins&logoColor=D24939&color=C7EBE9)
-![](https://img.shields.io/badge/Kafka-informational?style=for-the-badge&logo=ApacheKafka&logoColor=231F20&color=C7EBE9)
 ![](https://img.shields.io/badge/Grafana-informational?style=for-the-badge&logo=Grafana&logoColor=F46800&color=black) <br>
 I am very noob at; <br>
 ![](https://img.shields.io/badge/HTML-informational?style=for-the-badge&logo=HTML5&logoColor=E34F26&color=FFFFFF)
@@ -49,24 +50,37 @@ I am very noob at; <br>
 
 ### <p align="center"> 🛠️ Current & Old Projects 🛠️ </p>
 <div>
-<table>
-    <td>
-
-![](https://avatars.githubusercontent.com/u/83714978?s=200&v=4)
-- [Nitroex](https://www.nitroex.io/)
-    </td>
-    <td>
-
-![](https://avatars.githubusercontent.com/u/90764189?s=200&v=4)
-- [Dyorex](https://dyorex.com/)
-    </td>
-    <td>
-
-![](https://avatars.githubusercontent.com/u/48284751?s=200&v=4)
-- [Paritex](https://www.paritex.com/)
-    </td>
-</table>
+  <table>
+    <tr>
+      <td style="width: 200px; height: 200px; text-align: center; vertical-align: middle;">
+        <img src="https://www.freepnglogos.com/uploads/vodafone-png-logo/free-vodafone-logos-20.png" alt="Vodafone Logo" style="max-width: 100%; max-height: 100%;">
+        <br>
+        <a href="https://www.vodafone.com/">Vodafone Intelligent Billing Engine</a>
+      </td>
+      <td style="width: 200px; height: 200px; text-align: center; vertical-align: middle;">
+        <img src="https://media.licdn.com/dms/image/C4D0BAQGMadVs73c3AA/company-logo_200_200/0/1673179857092?e=1711584000&v=beta&t=IkzUcPzAn9eCSdgqw7nr3GgCFQs1IOCOevd8ooUgSBU" alt="VinuSoft Logo" style="max-width: 100%; max-height: 100%;">
+        <br>
+        <a href="https://vinusoft.com/">VinuSoft</a>
+      </td>
+      <td style="width: 200px; height: 200px; text-align: center; vertical-align: middle;">
+        <img src="https://avatars.githubusercontent.com/u/83714978?s=200&v=4" alt="Nitroex Logo" style="max-width: 100%; max-height: 100%;">
+        <br>
+        <a href="https://www.nitroex.io/">Nitroex</a>
+      </td>
+      <td style="width: 200px; height: 200px; text-align: center; vertical-align: middle;">
+        <img src="https://avatars.githubusercontent.com/u/90764189?s=200&v=4" alt="Dyorex Logo" style="max-width: 100%; max-height: 100%;">
+        <br>
+        <a href="https://dyorex.com/">Dyorex</a>
+      </td>
+      <td style="width: 200px; height: 200px; text-align: center; vertical-align: middle;">
+        <img src="https://avatars.githubusercontent.com/u/48284751?s=200&v=4" alt="Paritex Logo" style="max-width: 100%; max-height: 100%;">
+        <br>
+        <a href="https://www.paritex.com/">Paritex</a>
+      </td>
+    </tr>
+  </table>
 </div>
+
 
 <!-- <img src="https://github.com/IsaGULER/IsaGULER/raw/main/assets/neon-line-seperator.gif"><br> -->
 
