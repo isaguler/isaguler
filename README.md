@@ -56,32 +56,33 @@ I am very noob at; <br>
       <td style="width: 200px; height: 200px; text-align: center; vertical-align: middle;">
         <img src="https://www.freepnglogos.com/uploads/vodafone-png-logo/free-vodafone-logos-20.png" alt="Vodafone Logo" style="max-width: 100%; max-height: 100%;">
         <br>
-        <a href="https://www.vodafone.com/">Vodafone Intelligent Billing Engine</a>
+        <a href="https://www.vodafone.com/" target="_blank">Vodafone Intelligent Billing Engine</a>
       </td>
       <td style="width: 200px; height: 200px; text-align: center; vertical-align: middle;">
         <img src="https://media.licdn.com/dms/image/C4D0BAQGMadVs73c3AA/company-logo_200_200/0/1673179857092?e=1711584000&v=beta&t=IkzUcPzAn9eCSdgqw7nr3GgCFQs1IOCOevd8ooUgSBU" alt="VinuSoft Logo" style="max-width: 100%; max-height: 100%;">
         <br>
-        <a href="https://vinu.com.tr/">Vinu</a>
+        <a href="https://vinu.com.tr/" target="_blank">Vinu</a>
       </td>
       <td style="width: 200px; height: 200px; text-align: center; vertical-align: middle;">
         <img src="https://avatars.githubusercontent.com/u/83714978?s=200&v=4" alt="Nitroex Logo" style="max-width: 100%; max-height: 100%;">
         <br>
-        <a href="https://www.nitroex.io/">Nitroex</a>
+        <a href="https://www.nitroex.io/" target="_blank">Nitroex</a>
       </td>
       <td style="width: 200px; height: 200px; text-align: center; vertical-align: middle;">
         <img src="https://avatars.githubusercontent.com/u/90764189?s=200&v=4" alt="Dyorex Logo" style="max-width: 100%; max-height: 100%;">
         <br>
-        <a href="https://dyorex.com/">Dyorex</a>
+        <a href="https://dyorex.com/" target="_blank">Dyorex</a>
       </td>
       <td style="width: 200px; height: 200px; text-align: center; vertical-align: middle;">
         <img src="https://avatars.githubusercontent.com/u/48284751?s=200&v=4" alt="Paritex Logo" style="max-width: 100%; max-height: 100%;">
         <br>
-        <a href="https://www.paritex.com/">Paritex</a>
+        <a href="https://www.paritex.com/" target="_blank">Paritex</a>
       </td>
     </tr>
   </table>
 
 </div>
+
 
 
 
