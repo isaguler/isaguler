@@ -49,7 +49,8 @@ I am very noob at; <br>
 <!-- <img src="https://github.com/IsaGULER/IsaGULER/raw/main/assets/neon-line-seperator.gif"><br> -->
 
 ### <p align="center"> 🛠️ Current & Old Projects 🛠️ </p>
-<div>
+<div align="center">
+
   <table>
     <tr>
       <td style="width: 200px; height: 200px; text-align: center; vertical-align: middle;">
@@ -60,7 +61,7 @@ I am very noob at; <br>
       <td style="width: 200px; height: 200px; text-align: center; vertical-align: middle;">
         <img src="https://media.licdn.com/dms/image/C4D0BAQGMadVs73c3AA/company-logo_200_200/0/1673179857092?e=1711584000&v=beta&t=IkzUcPzAn9eCSdgqw7nr3GgCFQs1IOCOevd8ooUgSBU" alt="VinuSoft Logo" style="max-width: 100%; max-height: 100%;">
         <br>
-        <a href="https://vinusoft.com/">VinuSoft</a>
+        <a href="https://vinu.com.tr/">Vinu</a>
       </td>
       <td style="width: 200px; height: 200px; text-align: center; vertical-align: middle;">
         <img src="https://avatars.githubusercontent.com/u/83714978?s=200&v=4" alt="Nitroex Logo" style="max-width: 100%; max-height: 100%;">
@@ -79,7 +80,9 @@ I am very noob at; <br>
       </td>
     </tr>
   </table>
+
 </div>
+
 
 
 <!-- <img src="https://github.com/IsaGULER/IsaGULER/raw/main/assets/neon-line-seperator.gif"><br> -->
@@ -99,7 +102,8 @@ I am very noob at; <br>
 <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" alt=""/>
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=IsaGULER)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=IsaGULER)](https://git.io/streak-stats) <br>
+
 ![](https://komarev.com/ghpvc/?username=IsaGULER&style=for-the-badge)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaguler&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
