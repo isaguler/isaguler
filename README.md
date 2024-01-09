@@ -5,7 +5,7 @@
 I am a Java based Backend Developer.
 
 <!-- - 🌱 I’m currently learning [Reactive Programming With Spring](https://spring.io/reactive) and [Event Driven Programming With Spring](https://spring.io/event-driven). -->
-- 🍃 Spring Boot lover.
+- 🍃 Spring Boot enthusiast.
 - 🔭 Always trying to learn something new...
 - 🌱 Learning and practicing DevOps tech stack like [Kubernetes](https://kubernetes.io/), [AWS](https://aws.amazon.com/), [Jenkins](https://www.jenkins.io/), [Docker](https://www.docker.com/).
 
