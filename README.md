@@ -5,9 +5,9 @@
 I am a Java based Backend Developer.
 
 <!-- - 🌱 I’m currently learning [Reactive Programming With Spring](https://spring.io/reactive) and [Event Driven Programming With Spring](https://spring.io/event-driven). -->
-- 🍃 Spring Boot lover.
+- 🍃 Java & Spring Boot enthusiast.
 - 🔭 Always trying to learn something new...
-- 🌱 Learning and practicing DevOps tech stack like [Kubernetes](https://kubernetes.io/), [AWS](https://aws.amazon.com/), [Jenkins](https://www.jenkins.io/), [Docker](https://www.docker.com/).
+- 🌱 Learning and practicing DevOps tech stack like [Kubernetes](https://kubernetes.io/), [AWS](https://aws.amazon.com/), [Jenkins](https://www.jenkins.io/), [Docker](https://www.docker.com/) etc.
 
 <!-- - 🔭 Also interested in Frontend Development and learning [JavaScript](https://www.javascript.com/) and [React](https://beta.reactjs.org/) -->
 
@@ -59,7 +59,7 @@ I am very noob at; <br>
         <a href="https://www.vodafone.com/" target="_blank">Vodafone Intelligent Billing Engine</a>
       </td>
       <td style="width: 200px; height: 200px; text-align: center; vertical-align: middle;">
-        <img src="https://media.licdn.com/dms/image/C4D0BAQGMadVs73c3AA/company-logo_200_200/0/1673179857092?e=1711584000&v=beta&t=IkzUcPzAn9eCSdgqw7nr3GgCFQs1IOCOevd8ooUgSBU" alt="VinuSoft Logo" style="max-width: 100%; max-height: 100%;">
+        <img src="https://github.com/IsaGULER/IsaGULER/raw/main/assets/vinu.png" alt="VinuSoft Logo" style="max-width: 100%; max-height: 100%;">
         <br>
         <a href="https://vinu.com.tr/" target="_blank">Vinu</a>
       </td>
